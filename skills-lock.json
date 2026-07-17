@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "generar-prd": {
+      "source": "adminoryslabs/Skills",
+      "sourceType": "github",
+      "skillPath": "skills/generar-prd/SKILL.md",
+      "computedHash": "e266c83c90073a7b1a944cea36ce067dc663db4ecb0ddee48373695fcc57d3e8"
+    }
+  }
+}
